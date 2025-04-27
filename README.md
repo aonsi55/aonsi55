@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on multiple Project, my main interest solving Physics Problem this inlcudes: Nuclear, Radiation, Atomic, and Quantum Physics.
+- 🌱 I’m currently learning Deep Learning and Neural Network
+- 👯 I’m looking to collaborate on Physics Papers, and Machine Learning Projects
+- 💬 Ask me about I am Proffesional-Latex user, and experienced Physics educator
+- 📫 How to reach me: you can email via aonsi@alexu.edu.eg
+- ⚡ Fun fact: Images of objects that we pereceive in our eyes are inverted, but our minds fix that for us, although we didnot ask for it to do so ... I wonder how many other things that our minds misses up thinking that it is doing us a favour?!
 <!--
 **aonsi55/aonsi55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
