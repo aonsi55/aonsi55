@@ -1,8 +1,7 @@
 <img src="./GitBanner.webp" alt="Piducation Banner">
 
-<div align="center">
-  ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=aonsi55.aonsi55)
-</div>
+                            ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=aonsi55.aonsi55)
+
 ## Hi there 👋
 
 - 🔭 I’m currently working on multiple Project, my main interest solving Physics Problem this inlcudes: Nuclear, Radiation, Atomic, and Quantum Physics.
