@@ -1,6 +1,6 @@
 <img src="./GitBanner.webp" alt="Piducation Banner">
 
-                            ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=aonsi55.aonsi55)
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=aonsi55.aonsi55)
 
 ## Hi there 👋
 
