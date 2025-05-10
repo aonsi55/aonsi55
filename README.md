@@ -1,4 +1,4 @@
-<img src="./GitBanner.webp" alt="Description" width="300">
+<img src="./GitBanner.webp" alt="Piducation Banner">
 
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=aonsi55.aonsi55)
 
